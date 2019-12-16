@@ -14,8 +14,9 @@ working in the present and in the future.
 
 - WRS Web page: [https://worldrobotsummit.org/](https://worldrobotsummit.org/)
 
+<img src="fcsc_logo.png" width="160" align="right">
+
 ### Future Convenience Store Challenge (FCSC)
-<img src="fcsc_logo.png" width="180" align="right">
 
 This is the world first challenge aiming to realize the future
 convenience store, where new services are offered to customers through
