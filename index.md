@@ -23,6 +23,8 @@ robotics that can help reduce the burdens of the employees.
 
 - FCSC Web page: [https://f-csc.org](https://f-csc.org)
 
+<img src="store_image.jpeg" width="640" align="center">
+
 ## Resources
 
 - Gazebo model: [https://github.com/FCSC/wrs_gazebo_worlds](https://github.com/FCSC/wrs_gazebo_worlds)
