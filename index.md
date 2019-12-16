@@ -3,6 +3,7 @@ This is a Web page to provide some software resources and share development resu
 ## Overview of the Project
 
 ### The World Robot Summit (WRS)
+<img src="wrs_logo.png" width="240" align="right">
 
 The World Robot Summit (WRS) consists of two parts: World Robot
 Challenge (WRC), a robot competition in which teams from all over the
