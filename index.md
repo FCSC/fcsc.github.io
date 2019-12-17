@@ -29,4 +29,5 @@ robotics that can help reduce the burdens of the employees.
 ## Resources
 
 - Gazebo model: [https://github.com/FCSC/wrs_gazebo_worlds](https://github.com/FCSC/wrs_gazebo_worlds)
+- Disposal Task Lottery: [https://fcsc.github.io/disposal_lottery/](https://fcsc.github.io/disposal_lottery/) <img src="disposal_lottery.png" align="right">
 
